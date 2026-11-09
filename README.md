@@ -1,0 +1,2 @@
+# reversi-rust
+Reversi Rust
